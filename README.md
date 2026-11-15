@@ -1,10 +1,10 @@
-# 🛡️ SpamShieldAI
+# 🛡️ Aegilyn AI
 
 ### AI-Powered Financial Scam Detection and Prevention
 
-**SpamShieldAI** is an Android-based AI scam detection prototype designed to help users recognize financial fraud, phishing attempts, suspicious messages, and social engineering scams.
+**AegilynAI** is an Android-based AI scam detection prototype designed to help users recognize financial fraud, phishing attempts, suspicious messages, and social engineering scams.
 
-Built for **Google AI Buildathon India 2026**, SpamShieldAI combines Google Gemini AI with traditional machine learning to analyze potentially fraudulent content and provide understandable safety guidance.
+Built for **Google AI Buildathon India 2026**, AegilynAI combines Google Gemini AI with traditional machine learning to analyze potentially fraudulent content and provide understandable safety guidance.
 
 ## 🎯 Problem
 
@@ -12,7 +12,7 @@ Financial scams increasingly target people through fraudulent SMS messages, phis
 
 ## 💡 Our Solution
 
-SpamShieldAI provides a single interface for checking suspicious content and demonstrating how an AI-powered call guardian could warn users about scam tactics.
+AegilynAI provides a single interface for checking suspicious content and demonstrating how an AI-powered call guardian could warn users about scam tactics.
 
 ## ✨ Features
 
@@ -35,7 +35,7 @@ SpamShieldAI provides a single interface for checking suspicious content and dem
 ## 📁 Repository Structure
 
 ```text
-SpamShieldAI/
+AegilynAI/
 ├── android_app/    # Kotlin Android application
 ├── backend/        # FastAPI backend and scam detection
 ├── frontend/       # Python frontend
@@ -89,7 +89,7 @@ adb reverse tcp:8000 tcp:8000
 
 ## 🏆 Google AI Buildathon India 2026
 
-**Project:** SpamShieldAI  
+**Project:** AegilynAI  
 **Category:** AI for Financial Safety and Fraud Prevention  
 **Stage:** Working prototype / MVP
 
@@ -99,4 +99,4 @@ API keys and local environment files should never be committed to the repository
 
 ## 📄 Disclaimer
 
-SpamShieldAI is a prototype for educational and demonstration purposes. It is not a substitute for professional cybersecurity advice, bank fraud support, or emergency services.
+AegilynAI is a prototype for educational and demonstration purposes. It is not a substitute for professional cybersecurity advice, bank fraud support, or emergency services.
